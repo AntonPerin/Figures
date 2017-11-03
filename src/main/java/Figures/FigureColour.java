@@ -36,4 +36,5 @@ public enum FigureColour {
         }
         throw new IllegalArgumentException("Wrong index, there is no such colour!");
     }
+///12345
 }
